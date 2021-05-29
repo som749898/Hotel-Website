@@ -231,3 +231,54 @@ footer {
   border-radius: 50%;
   margin-right: 20px;
 }
+
+#contact-form {
+  padding: 10px;
+}
+
+#contact-form h1 {
+  font-size: 40px;
+  line-height: 1.7em;
+  padding-bottom: 15px;
+}
+
+#contact-form p {
+  padding-bottom: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px #ddd solid;
+}
+
+button {
+  border: none;
+  background-color: #333;
+  color: white;
+  padding: 13px 20px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #f7c08a;
+  color: #333;
+}
+
+#features-a {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 50px 20px;
+}
+
+.box-1a, .box-2a, .box-3a {
+  float: left;
+  width: 33.3%;
+}
+
+.box-1a h3, .box-2a h3, .box-3a h3 {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
